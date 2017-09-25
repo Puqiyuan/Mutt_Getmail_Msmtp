@@ -5,20 +5,20 @@ sudo aptitude install msmtp
 sudo aptitude install proxychains
 
 then configure ~/.muttrc:
-link1
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/muttrc
 
 configure ~/.msmtprc:
-link2
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/msmtprc
 
 configure ~/.getmail/getmailrc:
-link3
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/getmailrc
 
 configure your proxychains, /etc/proxychains.conf, for me it's like this:
-link4
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/proxychains.conf
 
 your alias file:
-link5
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/alias
 
 change the color theme mutt if you want, .mutt/colors:
-link6
+https://github.com/Puqiyuan/Mutt_Getmail_Msmtp/blob/master/Config/colors
 
