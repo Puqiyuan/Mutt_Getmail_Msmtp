@@ -1,0 +1,9 @@
+[retriever]
+type = SimplePOP3SSLRetriever
+server = pop.gmail.com
+username = yourusername
+password = ************
+
+[destination]
+type = Maildir
+path = ~/Mail/

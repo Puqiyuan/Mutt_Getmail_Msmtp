@@ -1,0 +1,24 @@
+sudo apt-get update
+sudo aptitude install mutt
+sudo aptitude install getmail4
+sudo aptitude install msmtp
+sudo aptitude install proxychains
+
+then configure ~/.muttrc:
+link1
+
+configure ~/.msmtprc:
+link2
+
+configure ~/.getmail/getmailrc:
+link3
+
+configure your proxychains, /etc/proxychains.conf, for me it's like this:
+link4
+
+your alias file:
+link5
+
+change the color theme mutt if you want, .mutt/colors:
+link6
+
